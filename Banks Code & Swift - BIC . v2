@@ -1,0 +1,25 @@
+| Code | Bank Name                                                      | SWIFT/BIC      |
+| ---- | -------------------------------------------------------------- | -------------- |
+| 001  | Banque Nationale d’Algérie (BNA)                               | BNALDZAL       |
+| 002  | Banque Extérieure d’Algérie (BEA)                              | BEXADZAL       |
+| 003  | Banque de l’Agriculture et du Développement Rural (BADR)       | BADRDZAL       |
+| 004  | Crédit Populaire d’Algérie (CPA)                               | CPALDZAL       |
+| 005  | Banque de Développement Local (BDL)                            | BDLODZAL       |
+| 006  | Banque Al Baraka Algérie (BRKA)                                | BRKADZAL       |
+| 007  | EPIC Algérie Poste (CCP)                                       | EPALDZAL       |
+| 008  | Banque Nationale de l’Habitat (BNH)                            | NAHBDZAA       |
+| 010  | CNMA Banque                                                    | CNMADZAL       |
+| 011  | CNEP Banque                                                    | EPPRDZAL       |
+| 012  | Citibank N.A. Algérie                                          | CITIDZAL       |
+| 014  | Arab Banking Corporation Algérie (ABC)                         | ABCODZAL       |
+| 020  | Natixis Algérie (BFCE)                                         | NATXDZAL       |
+| 021  | Société Générale Algérie (SOGE)                                | SOGEDZAL       |
+| 026  | Arab Bank PLC Algérie (ARAB)                                   | ARABDZAL       |
+| 027  | BNP Paribas El Djazair (BNP)                                   | BNPADZAL       |
+| 029  | Trust Bank Algéria (TBAL)                                      | TBALDZAL       |
+| 031  | Housing Bank for Trade and Finance Algérie (HBHO)              | HBHODZAL       |
+| 032  | Gulf Bank Algérie (AGUB)                                       | AGUBDZAL       |
+| 035  | Fransabank El Djazair (FSBK)                                   | FSBKDZAL       |
+| 036  | BSUI (maybe Société Générale affiliate or missing; to confirm) | (to verify)    |
+| 037  | HSBC Algeria                                                   | HSBCDZAL       |
+| 038  | Al Salam Bank - Algeria (SALG)                                 | SALGDZAL       |
